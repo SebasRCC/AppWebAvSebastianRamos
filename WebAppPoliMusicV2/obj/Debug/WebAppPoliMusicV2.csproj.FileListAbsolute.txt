@@ -1,0 +1,7 @@
+C:\Users\Sebas\source\repos\AppWebAvSebastianRamos\WebAppPoliMusicV2\bin\WebAppPoliMusicV2.dll.config
+C:\Users\Sebas\source\repos\AppWebAvSebastianRamos\WebAppPoliMusicV2\bin\WebAppPoliMusicV2.dll
+C:\Users\Sebas\source\repos\AppWebAvSebastianRamos\WebAppPoliMusicV2\bin\WebAppPoliMusicV2.pdb
+C:\Users\Sebas\source\repos\AppWebAvSebastianRamos\WebAppPoliMusicV2\obj\Debug\WebAppPoliMusicV2.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\AppWebAvSebastianRamos\WebAppPoliMusicV2\obj\Debug\WebAppPoliMusicV2.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\AppWebAvSebastianRamos\WebAppPoliMusicV2\obj\Debug\WebAppPoliMusicV2.dll
+C:\Users\Sebas\source\repos\AppWebAvSebastianRamos\WebAppPoliMusicV2\obj\Debug\WebAppPoliMusicV2.pdb
